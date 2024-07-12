@@ -1,7 +1,5 @@
 # SkylineSync
 
-# Weather App
-
 Welcome to the Weather App! This app provides real-time weather updates and forecasts for any location worldwide.
 
 ## Features
